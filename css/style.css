@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cyan;
+}
+
+h1 {
+    color: rgb(152, 94, 53);
+}
+
+h2 {
+  color: rgb(77, 103, 42);
+}
+
+img {
+    height: 350px;
+    width: 350px;
+    object-fit: cover;
+}
+
+.box {
+    padding: 16px;
+    background-color: #e7b1b1;
+    border-bottom: 2px solid blue;
+}
+
+.box h2 {
+    margin-top: 0px;
+}
